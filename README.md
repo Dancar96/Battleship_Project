@@ -17,5 +17,5 @@ Each board has 1 ship with 4 positions, 2 ships with 3 positions, 3 ships with 2
   
 ### Meaning of what we see during the game:
 1. ' - ' = water
-2. ' O ' = part of a boat
+2. ' O ' = part of a ship
 3. ' X ' = part of a sinking ship
